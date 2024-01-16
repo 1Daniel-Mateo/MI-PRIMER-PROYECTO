@@ -1,0 +1,28 @@
+.menu{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #08313A;
+    border-radius: 6px;
+    border: 2px solid #5CD85A;
+  }
+
+  .menu{
+      margin: 20px;
+      width: 1330px;
+      height: 100px;
+      margin: 3px 10px;
+      border-radius:5px;
+  }
+
+  .menu img {
+    max-width: 60px;
+    height: 60px;
+    margin: 10px 10px;
+    border-radius: 10px;
+  }
+
+
+  
+  

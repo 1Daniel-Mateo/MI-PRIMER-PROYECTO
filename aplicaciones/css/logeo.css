@@ -1,0 +1,74 @@
+body{
+    background: #2980B9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+.formulario{
+    background-color:rgba(255, 255, 255, 0.938);
+    width: 500px;
+    height: 420px;
+    margin-top: 300px;
+    margin-left: 700px;
+    border-radius: 10px;
+}
+
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+
+.grupo > label{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    position: relative;
+    margin-left: 10px;
+}
+
+.grupo > input{
+    background: rgba(54, 54, 54, 0.603);
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #083a7cd8;
+    width: 450px;
+    padding: 12px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    font-size: 16px;
+    color:#fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.boton1 > .boton{
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    margin-top: 40px;
+    margin-left: 1px;
+    width: 470px;
+    height: 50px;
+    margin-left: 10px;
+    color:white;
+    border-radius: 50px;
+    text-align: center;
+    background: black;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.boton2 > .boton{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  margin-left: 10px;
+  margin-top: 30px;
+  text-decoration: none;
+  background: transparent;
+  border-bottom: 2px solid #0000008a;
+  width: 400px;
+  height: 50px;
+}
